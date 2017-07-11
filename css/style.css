@@ -1,0 +1,51 @@
+.main{
+	padding : 0px 40px 0px 40px;
+	margin: auto;
+    width: 800px;
+    border: 3px solid #73AD21;
+    font-size: 20px;
+}
+input{
+	border-radius: 10px;
+	padding-bottom: 5px;
+	font-size: 15px;
+}
+table{
+		border-style: inset;
+		font-size: 20px;
+		padding : 20px 40px 20px 40px;
+		width : 600px ;
+}
+body{
+	background-color: lightgrey; 
+}
+td{
+	padding : 1px;
+}
+button{
+	border-radius: 10px;
+	width :300px;
+	height : 30px;
+}
+select{
+    border-radius: 10px;
+    width : 200px ;
+    height: 30px;
+    font-size: 15px ;
+    font-style: italic;
+}
+textarea{
+	border-radius: 10px;
+    font-size: 15px ;
+    font-style: italic;
+    resize: none;
+}
+img{
+	border-radius: 10px;
+}
+video{
+	border-radius: 10px;
+}
+.error{
+	font-size: 15px;
+}
